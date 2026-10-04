@@ -1,6 +1,6 @@
 {
   "name": "@gbesse/jev-air-episode-context",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Explique un épisode de pollution atmosphérique à partir de mesures réglementaires sans recalculer les seuils officiels.",
   "type": "module",
   "license": "MIT",
